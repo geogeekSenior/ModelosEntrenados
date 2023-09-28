@@ -21,12 +21,23 @@ Este repositorio contiene un archivo con extensión ipynb. este archivo es un No
 ## Contribuir
 
 1. Hacer fork del proyecto.
-2. Crear una nueva rama (`git checkout -b feature/nuevaCaracteristica`).
-3. Realizar los cambios o adiciones pertinentes.
-4. Hacer commit de los cambios (`git commit -am 'Añadir alguna nueva característica'`).
-5. Hacer push a la rama (`git push origin feature/nuevaCaracteristica`).
-6. Crear un nuevo Pull Request.
+2. Crear una nueva rama
+   ```bash
+   git checkout -b feature/nuevaCaracteristica
+   ````
+4. Realizar los cambios o adiciones pertinentes.
+5. Hacer commit de los cambios
+   ```bash
+   git commit -am 'Añadir alguna nueva característica
+   ````
+8. Hacer push a la rama 
+
+    ```bash
+    git push origin feature/nuevaCaracteristica
+    ````
+    
+10. Crear un nuevo Pull Request.
 
 
 
-#GeoGeeks - Esri Colombia 2023
+# GeoGeeks - Esri Colombia 2023
